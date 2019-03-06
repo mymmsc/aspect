@@ -1,0 +1,60 @@
+.DS_Store
+.idea/
+.vscode/
+target/
+*.iml
+dependency-reduced-pom.xml
+
+# maven deploy files
+*.versionsBackup
+*.releaseBackup
+release.properties
+
+# Clion files
+*.cbp
+
+# Visual Studio Code files
+.vscode/
+*.code-workspace
+
+#cmake files
+build/
+cmake-build-debug/
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
